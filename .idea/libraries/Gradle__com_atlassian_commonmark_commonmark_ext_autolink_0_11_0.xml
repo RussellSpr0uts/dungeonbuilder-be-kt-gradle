@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.atlassian.commonmark:commonmark-ext-autolink:0.11.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.atlassian.commonmark/commonmark-ext-autolink/0.11.0/e5534f1f01ec7cecd0583642e5f40d040a024288/commonmark-ext-autolink-0.11.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.atlassian.commonmark/commonmark-ext-autolink/0.11.0/d82c08310864ba10b7dd648051cc51e95c401c78/commonmark-ext-autolink-0.11.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

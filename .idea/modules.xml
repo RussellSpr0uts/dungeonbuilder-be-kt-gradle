@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dungeonbuilder.iml" filepath="$PROJECT_DIR$/.idea/modules/dungeonbuilder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dungeonbuilder_main.iml" filepath="$PROJECT_DIR$/.idea/modules/dungeonbuilder_main.iml" group="dungeonbuilder" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dungeonbuilder_test.iml" filepath="$PROJECT_DIR$/.idea/modules/dungeonbuilder_test.iml" group="dungeonbuilder" />
+    </modules>
+  </component>
+</project>
