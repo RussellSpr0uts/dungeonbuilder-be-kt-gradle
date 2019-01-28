@@ -10,13 +10,14 @@ import com.rsowell.dungeonbuilder.domain.dynamicentities.item.ItemType
 import com.rsowell.dungeonbuilder.domain.dynamicentities.playercharacter.PlayerCharacter
 import com.rsowell.dungeonbuilder.domain.dynamicentities.playercharacter.PlayerCharacterType
 import com.rsowell.dungeonbuilder.domain.tile.Tile
+import com.rsowell.dungeonbuilder.domain.tile.TileSet
 import com.rsowell.dungeonbuilder.domain.tile.TileType
 import org.springframework.data.jpa.repository.JpaRepository
 
 interface DungeonRepository: JpaRepository<Dungeon, Long>
 interface DungeonTypeRepository: JpaRepository<DungeonType, Long>
 interface UserRepository: JpaRepository<User, Long>
-//interface TileSetRepository: JpaRepository<TileSet, Long>
+interface TileSetRepository: JpaRepository<TileSet, Long>
 interface TileTypeRepository: JpaRepository<TileType, Long>
 interface TileRepository: JpaRepository<Tile, Long>
 interface PlayerCharacterRepository: JpaRepository<PlayerCharacter, Long>

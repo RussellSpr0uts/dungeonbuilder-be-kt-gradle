@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.rsowell.dungeonbuilder.services.EnemyServiceTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2018-12-05T03:05:59" hostname="DESKTOP-AJLCSA3" time="0.939">
+  <properties/>
+  <testcase name="delete()" classname="com.rsowell.dungeonbuilder.services.EnemyServiceTest" time="0.356"/>
+  <testcase name="When valid enemy is added then return list of valid enemy()" classname="com.rsowell.dungeonbuilder.services.EnemyServiceTest" time="0.355"/>
+  <testcase name="When valid enemy is saved then return valid enemy()" classname="com.rsowell.dungeonbuilder.services.EnemyServiceTest" time="0.215"/>
+  <testcase name="deleteById()" classname="com.rsowell.dungeonbuilder.services.EnemyServiceTest" time="0.007"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
